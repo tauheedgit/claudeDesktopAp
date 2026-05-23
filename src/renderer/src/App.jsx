@@ -14,7 +14,7 @@ const AppContent = () => {
 
   return (
     <div className="app">
-      <Header title="Claude Desktop" onMenuClick={toggleSidebar} />
+      <Header title="Opusmax.pro Claude App Version" onMenuClick={toggleSidebar} />
       <div className="app-body">
         {isSidebarOpen && <Sidebar onSettingsClick={() => setShowSettings(true)} />}
         <div className="main-content">

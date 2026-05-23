@@ -1,0 +1,12 @@
+:root {
+  /* Colors - Claude Dark Theme */
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #252525;
+  --bg-tertiary: #333333;
+  --text-primary: #ffffff;
+  --text-secondary: #999999;
+  --border-color: #3a3a3a;
+  --hover-bg: #333333;
+  --accent-color: #D4AF37;
+  --accent-color-alpha: rgba(212, 175, 55, 0.15);
+}
